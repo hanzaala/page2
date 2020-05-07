@@ -1,0 +1,599 @@
+div{
+    background-color:blue;
+    height: 45px;
+    
+}
+p{
+    color : white;
+  
+    position: absolute;
+    top: 7px;
+    left: 405px;
+    
+}
+.uk{
+    position: absolute;
+    left: 950px;
+    border: black;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    top: 14px;
+    height: 9px;
+    width: 50px;
+    font-size: x-small;
+}
+.donor{
+    position: absolute;
+    left: 1030px;
+    border: black;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    top: 14px;
+    height: 9px;
+    width: 50px;
+    font-size:x-small;
+   
+}
+.smit{
+    position: absolute;
+    left: 1110px;
+    border: black;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    top: 14px;
+    height: 9px;
+    width: 50px;
+    font-size: x-small;
+
+}
+.fa{
+    position: absolute;
+    top: 20px;
+    left: 110px;
+    color: white;
+    
+}
+#mail{
+    position:absolute;
+    left: 140px;
+}
+#what{
+    position: absolute;
+    left: 170px;
+}
+#you{
+    position: absolute;
+    left: 200px;
+}
+#inst{
+    position: absolute;
+    left: 235px;
+}
+nav{
+    background-color:gainsboro;
+    height: 75px;
+ 
+   
+}
+label{
+    font-size: 35px;
+    padding: 0 100px;
+    line-height: 80px;
+    position: absolute;
+    top: 60px;
+
+   
+}
+nav ul{
+    float: right;
+}
+nav ul li{
+    display: inline-block;
+  
+   border-radius: 10px;
+   
+    font-size: 17px;
+    padding: 7px;
+  
+
+   
+
+}
+li:hover{
+    background: blue;
+}
+li.active{
+    background-color: blue;
+    
+}
+#kala{
+    position: absolute;
+    top: 660px;
+    left: 20px;
+    color:white;
+    background-color: blue;
+    margin: 0 100px;
+   
+    padding: 10px;
+}
+#gaas{
+    position: absolute;
+    top: 701px;
+    left: 534px;
+    color:blue;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#duct{
+    position: absolute;
+    top: 701px;
+    left:620px;
+    color: green;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#hand{
+    position: absolute;
+    top: 780px;
+    left: 620px;
+    width: 40px;
+}
+#into{
+    position: absolute;
+    top: 870px;
+    left: 150px;
+    color: black;
+}
+#finan{
+    position: absolute;
+    top:930px ;
+    left: 150px;
+    color: black;
+}
+#hyde{
+    position: absolute;
+    top: 1000px;
+    left: 150px;
+    color: black;
+}
+table{
+    background-color:skyblue;
+    height: 220px;
+    width: 1330px;
+    position: absolute;
+    top: 1170px;
+    color: white;
+    font-size: xx-large;
+}
+#value{
+    position: absolute;
+    left: 240px;
+    top: 130px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#fav{
+    color:white;
+    position: absolute;
+    top: 80px;
+    left: 290px;
+
+}
+#dasta{
+    color: white;
+    position: absolute;
+    top: 183px;
+    left: 230px;
+    font-size: small;
+}
+#month{
+    color: green;
+    position: absolute;
+    top: 182px;
+    left: 370px;
+    font-size: small;
+}
+#ste{
+    color: white;
+    position: absolute;
+    top: 78px;
+    left: 600px;
+}
+#seco{
+    position: absolute;
+    left: 570px;
+    top: 130px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#medical{
+    color: white;
+    position: absolute;
+    top: 183px;
+    left: 570px;
+    font-size: small;
+
+}
+#mono{
+    color: green;
+    position: absolute;
+    top: 182px;
+    left: 628px;
+    font-size: small;
+}
+#degree{
+    color: white;
+    position: absolute;
+    top: 56px;
+    left: 770px;
+}
+#edu{
+    color: white;
+    position: absolute;
+    top: 134px;
+    left: 850px;
+}
+#thir{
+    color: white;
+    position: absolute;
+    top: 180px;
+    left: 830px;
+    font-size: small;
+}
+#lol{
+    color: green;
+    position: absolute;
+    top: 178px;
+    left: 908px;
+    font-size: small;
+}
+#name{
+    color: blue;
+    position: absolute;
+    top: 1450px;
+    left: 570px;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#doing{
+    color: green;
+    top: 1449px;
+    left: 710px;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#foot{
+    position: absolute;
+    top: 1535px;
+    left: 699px;
+    width: 40px;
+}
+#well{
+    width: 300px;
+    height: 150px;
+    background-color:white;
+    position: absolute;
+    top: 1700px;
+    left: 130px;
+    box-shadow: 10px 10px 60px;
+}
+#kno{
+    width: 300px;
+    height: 150px;
+    background-color:white;
+    position: absolute;
+    top: 1px;
+    left: 430px;
+    box-shadow: 10px 10px 60px;
+
+}
+#mana{
+    width: 300px;
+    height: 150px;
+    background-color:white;
+    position: absolute;
+    top: 1px;
+    left: 430px;
+    box-shadow: 10px 10px 60px;
+}
+#fyp{
+    color: blue;
+    position: absolute;
+    top: 1740px;
+    left: 257px;
+    font-size: xx-large;
+}
+#gr{
+    color: blue;
+    position: absolute;
+    top: 1770px;
+    left: 190px;
+    font-size: x-large;
+}
+#sto{
+    color: blue;
+    position: absolute;
+    top: 1740px;
+    left: 698px;
+    font-size: xx-large;
+}
+#cal{
+    color: blue;
+    position: absolute;
+    top: 1760px;
+    left: 645px;
+    font-size: xx-large;
+}
+#gdu{
+    color: blue;
+    position: absolute;
+    top: 1740px;
+    left: 1130px;
+    font-size: xx-large;
+}
+.rq{
+    color: blue;
+    position: absolute;
+    top: 1760px;
+    left: 1060px;
+    font-size: xx-large;
+}
+#mis{
+    color: blue;
+    position: absolute;
+    top: 1960px;
+    left: 125px;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#bak{
+    border: 1px solid gray;
+    position: absolute;
+    top: 2050px;
+    height: 40px;
+    left: 100px;
+    width: 260px;;
+    background-color:lightgrey;
+    box-shadow: 10px 10px 50px black;
+
+}
+#lapi{
+    color: blue;
+    position: absolute;
+    top: 2080px;
+    font-size: x-large;
+}
+#nor{
+    color: blue;
+    position: absolute;
+    top: 2055px;
+    left: 164px;
+    font-size: x-large;
+}
+#cz{
+    border: 1px solid gray;
+    position: absolute;
+    top: 2050px;
+    height: 40px;
+    left: 400px;
+    width: 260px;;
+    background-color:lightgrey;
+    box-shadow: 10px 10px 50px black;
+}
+#ho{
+    color: blue;
+    position: absolute;
+    top: 2080px;
+    left:410px ;
+    font-size: x-large;
+}
+#so{
+    color: blue;
+    position: absolute;
+    top: 2055px;
+    left: 440px;
+    font-size: x-large;
+}
+#up{
+    color: blue;
+    position: absolute;
+    top: 1955px;
+    left: 910px;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#fara{
+    color: black;
+    font-size: large;
+    position: absolute;
+    top: 2040px;
+    left: 910px;
+    background-color:whitesmoke;
+    width: 300px;
+   
+}
+#im{
+    color: blue;
+    font-size: xx-large;
+    position: absolute;
+    top: 2340px;
+    margin: 0 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#gel{
+    color: green;
+    font-size: xx-large;
+    position: absolute;
+    top: 2309px;
+    left: 600px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#hard{
+    position: absolute;
+    top: 2390px;
+    left: 600px;
+    width: 40px;
+
+}
+#sal{
+    position: absolute;
+    top: 2500px;
+    left: 100px;
+    height: 140px;
+    width: 320px;
+}
+#bc{
+    position: absolute;
+    top: 2500px;
+    left: 500px;
+    height: 140px;
+    width: 320px;
+}
+#gf{
+    position: absolute;
+    top: 2500px;
+    left: 900px;
+    height: 140px;
+    width: 320px;
+}
+#xx{
+    background-color: lightslategray;
+    height: 300px;
+    width: 1350px;
+    position: absolute;
+    top: 2800px;
+    left:0px;
+
+}
+#re{
+    color: white;
+    position: absolute;
+    top: 2840px;
+    left: 100px;
+}
+#office{
+    color: white;
+    position: absolute;
+    top: 2870px;
+    left: 100px;
+}
+#phone{
+    color: white;
+    position: absolute;
+    top: 2920px;
+    left: 100px;
+}
+#ff{
+    color: white;
+    position: absolute;
+    top: 2903px;
+    left: 120px;
+}
+#phne{
+    color: white;
+    position: absolute;
+    top: 2955px;
+    left: 100px;
+}
+#cpl{
+    color: white;
+    position: absolute;
+    top: 2937px;
+    left: 120px;
+}
+#phe{
+    color: white;
+    position: absolute;
+    top: 2990px;
+    left: 100px;
+}
+#usa{
+    color: white;
+    position: absolute;
+    top: 2973px;
+    left: 120px;
+}
+#emael{
+    color: white;
+    position: absolute;
+    top: 3030px;
+    left: 100px;
+}
+#com{
+    color: white;
+    position: absolute;
+    top: 3013px;
+    left: 124px;
+}
+#pd{
+    color: white;
+    position: absolute;
+    top: 2850px;
+    margin: 0 100px;
+    text-decoration: underline;
+    font-size: large;
+}
+#conn{
+    color: white;
+    position: absolute;
+    top: 2824px;
+    left: 907px;
+    font-size: x-large;
+}
+#fce{
+    color: blue;
+    position: absolute;
+    top: 2890px;
+    left: 920px;
+}
+#mal{
+    color: blue;
+    position: absolute;
+    top: 2889px;
+    left: 945px;
+}
+#whet{
+    color:green;
+    position: absolute;
+    top: 2889px;
+    left: 975px;
+}
+#yeu{
+    color:red;
+    position: absolute;
+    top: 2889px;
+    left: 1006px;
+}
+#inyt{
+    color:orange;
+    position: absolute;
+    top: 2889px;
+    left: 1040px;
+}
+#copy{
+    background-color: blue;
+    width: 1350px;
+    height: 40px;
+    position: absolute;
+    top: 3100px;
+    left: 0px;
+}
+#rite{
+    color:white;
+    position: absolute;
+    top: 3113px;
+    left: 100px;
+}
+a{
+    color:white;
+    font-size: x-large;
+    position: absolute;
+    text-decoration: none;
+    top: 2880px;
+    left: 504px;
+}
+
+
